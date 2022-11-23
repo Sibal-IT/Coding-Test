@@ -1,7 +1,7 @@
 ---
 
 ## 🐣 Manual
-- 매인 branch에서 `Add` & `Commit` & `Push`
+- 메인 branch에서 `Add` & `Commit` & `Push`
 
 ## 💻 File Name
 - `문제번호.파일형식`

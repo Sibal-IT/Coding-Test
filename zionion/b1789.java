@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class boj_1789 {
+public class b1789 {
     static long S;
     static long sum;
     static int cnt;
