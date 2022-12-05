@@ -1,5 +1,7 @@
 import java.util.*;
 import java.io.*;
+
+/* 회의실 배정 */
 public class b1931 {
 
     static int N;
