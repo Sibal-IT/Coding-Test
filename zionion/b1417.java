@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+/* 국회의원 선거 */
 public class b1417 {
     
     public static void main(String[] args) throws IOException {
