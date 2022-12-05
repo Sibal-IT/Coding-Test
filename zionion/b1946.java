@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+/* 신입사원 */
 public class b1946 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
