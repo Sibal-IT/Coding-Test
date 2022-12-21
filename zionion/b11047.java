@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 public class b11047 {
     
-    /* 11047 동전 0 */
+    /* 11047 동전 0   */
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
