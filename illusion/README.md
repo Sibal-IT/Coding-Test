@@ -3,8 +3,8 @@
 - 20221123 10610.py
 - 20221129 1417.py (풀이 참조함)
 - 20230122 1946.py (풀이 재참조)
+- 20230123 2217.py
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/2217
 - https://www.acmicpc.net/problem/15729
 - https://www.acmicpc.net/problem/1931
