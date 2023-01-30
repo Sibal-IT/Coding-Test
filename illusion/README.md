@@ -7,11 +7,11 @@
 - 20230122 1946.py (풀이 재참조)
 - 20230123 2217.py
 - 20230124 1931.py (풀이 참조, 1931_retry.py)
+- 20230126 15729.py (풀이 참조, 15729_retry.py)
+- 20230130 14659.py
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/15729
-- https://www.acmicpc.net/problem/2138
-- https://www.acmicpc.net/problem/14659
+- https://www.acmicpc.net/problem/2138 ~~포기~~
 - https://www.acmicpc.net/problem/1049
 - https://www.acmicpc.net/problem/4673
 - https://www.acmicpc.net/problem/11047
