@@ -9,18 +9,20 @@
 - 20230124 1931.py (풀이 참조, 1931_retry.py)
 - 20230126 15729.py (풀이 참조, 15729_retry.py)
 - 20230130 14659.py
+- 20230130 1080.py
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/2138 ~~포기~~
 - https://www.acmicpc.net/problem/1049
 - https://www.acmicpc.net/problem/4673
 - https://www.acmicpc.net/problem/11047
 - https://www.acmicpc.net/problem/16953
 - https://www.acmicpc.net/problem/11501
 - https://www.acmicpc.net/problem/2012
-- ~~다 풀 수 있을까?~~
+
+    ~~다 풀 수 있을까?~~
 
 ## 시도했지만 맞지 못한 문제
 - https://www.acmicpc.net/problem/1916
 - https://www.acmicpc.net/problem/1929
 - https://www.acmicpc.net/problem/17609
+- https://www.acmicpc.net/problem/2138 ~~포기~~
