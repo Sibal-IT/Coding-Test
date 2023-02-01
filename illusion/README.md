@@ -11,15 +11,15 @@
 - 20230130 14659.py
 - 20230130 1080.py
 - 20230201 1049.py
+- 20230201 4673.py
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/4673
 - https://www.acmicpc.net/problem/11047
 - https://www.acmicpc.net/problem/16953
 - https://www.acmicpc.net/problem/11501
 - https://www.acmicpc.net/problem/2012
 
-    ~~다 풀 수 있을까?~~
+~~다 풀 수 있을까?~~
 
 ## 시도했지만 맞지 못한 문제
 - https://www.acmicpc.net/problem/1916
