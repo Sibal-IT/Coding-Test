@@ -10,9 +10,9 @@
 - 20230126 15729.py (풀이 참조, 15729_retry.py)
 - 20230130 14659.py
 - 20230130 1080.py
+- 20230201 1049.py
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/1049
 - https://www.acmicpc.net/problem/4673
 - https://www.acmicpc.net/problem/11047
 - https://www.acmicpc.net/problem/16953
