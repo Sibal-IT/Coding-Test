@@ -1,3 +1,4 @@
+package baekjoon;
 public class b4673 {
     
     /* 4673 셀프 넘버 */

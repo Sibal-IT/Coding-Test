@@ -1,3 +1,4 @@
+package baekjoon;
 import java.util.*;
 
 /* 1049 기타줄 */
