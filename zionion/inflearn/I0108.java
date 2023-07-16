@@ -25,6 +25,8 @@ public class I0108 {
         } else {
             System.out.println("NO");
         }
+
+        sc.close();
     }
 }
 
