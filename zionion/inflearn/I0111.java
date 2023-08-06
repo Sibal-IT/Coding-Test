@@ -7,7 +7,7 @@ public class I0111 {
     public static String solution(String input) {
         String result = "";
         input = input + " ";
-        int cnt = 0;
+        int cnt = 1;
 
         for(int i = 0; i < input.length()-1; i++) {
             if(input.charAt(i) == input.charAt(i+1)) cnt++;
@@ -18,6 +18,8 @@ public class I0111 {
                     cnt = 1;
                 }
             }
+            //System.out.println(result);
+            //System.out.println(cnt);
         }
 
         return result;
