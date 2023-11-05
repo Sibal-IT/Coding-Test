@@ -12,9 +12,10 @@
 - 20230130 1080.py
 - 20230201 1049.py
 - 20230201 4673.py
+- 20230209 1233.py (풀이 참조, 외워서 다시 풀어야 함)
+- 20230212 11047.py
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/11047
 - https://www.acmicpc.net/problem/16953
 - https://www.acmicpc.net/problem/11501
 - https://www.acmicpc.net/problem/2012
