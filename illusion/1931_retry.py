@@ -1,9 +1,9 @@
 from sys import stdin
 
 def main():
-    input = stdin.readline
 
     # for BOJ
+    # input = stdin.readline
     # n = int(input().strip())
     # temp = [list(map(int, input().split())) for _ in range(n)]
 
