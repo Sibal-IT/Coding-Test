@@ -1,5 +1,7 @@
 package inflearn;
 
+import com.sun.tools.javac.Main;
+
 import java.nio.Buffer;
 import java.util.*;
 import java.io.*;
@@ -8,35 +10,37 @@ import java.io.*;
 * title : 두 배열 합치기
 * */
 public class I0301 {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
-        int N = Integer.parseInt(br.readLine());
-        int[] arr = new int[N];
-        StringTokenizer  st = new StringTokenizer(br.readLine());
-        for(int i = 0; i < N; i++){
-            arr[i] = Integer.parseInt(st.nextToken());
+    public ArrayList<Integer> solution(int n, int m, int[] a, int[] b) {
+        ArrayList<Integer> answer = new ArrayList<>();
+        int p1 = 0, p2 = 0;
+        while(p1 < n && p2 < m){
+            if(a[p1] < b[p2]) answer.add(a[p1++]);
+            else answer.add(b[p2++]);
         }
-        int M = Integer.parseInt(br.readLine());
-        int[] arr2 = new int[M];
-        st = new StringTokenizer(br.readLine());
-        for(int i = 0; i < M; i++){
-            arr2[i] = Integer.parseInt(st.nextToken());
+        while(p1 < n) {
+            answer.add(a[p1++]);
+        }
+        while(p2 < m) {
+            answer.add(b[p2++]);
         }
 
-        int[] arr3 = new int[N+M];
-        System.arraycopy(arr, 0, arr3, 0, N);
-        System.arraycopy(arr2, 0, arr3, N, M);
+        return answer;
+    }
 
-        //System.out.println(Arrays.toString(arr3));
-        Arrays.sort(arr3);
-        for(int i = 0; i < arr3.length; i++){
-            System.out.print(arr3[i] + " ");
+    public static void main(String[] args) {
+        I0301 T = new I0301();
+        Scanner kb = new Scanner(System.in);
+        int n = kb.nextInt();
+        int[] a = new int[n];
+        for(int i = 0; i < n; i++){
+            a[i] = kb.nextInt();
         }
+        int m = kb.nextInt();
+        int[] b = new int[m];
+        for(int i = 0; i < m; i++){
+            b[i] = kb.nextInt();
+        }
+        for(int x : T.solution(n, m, a, b)) System.out.print(x + " ");
 
-        br.close();
-        bw.flush();
-        bw.close();;
     }
 }
