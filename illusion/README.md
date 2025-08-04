@@ -14,9 +14,9 @@
 - 20230201 4673.py
 - 20230209 1233.py (풀이 참조, 외워서 다시 풀어야 함)
 - 20230212 11047.py
+- 20240207 16953.py (기능구현했으나 메모리 초과, 정답 참고 및 BFS로 재풀이 필요)
 
 ## 풀어야 할 문제
-- https://www.acmicpc.net/problem/16953
 - https://www.acmicpc.net/problem/11501
 - https://www.acmicpc.net/problem/2012
 
