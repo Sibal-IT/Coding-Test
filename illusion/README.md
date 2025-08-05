@@ -27,3 +27,9 @@
 - https://www.acmicpc.net/problem/1929
 - https://www.acmicpc.net/problem/17609
 - https://www.acmicpc.net/problem/2138 ~~포기~~
+
+## 다시 기초부터
+이것이 코딩 테스트다 교재
+
+- 그리디
+- 구현
